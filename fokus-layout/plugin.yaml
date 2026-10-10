@@ -1,0 +1,12 @@
+name: fokus-layout
+version: "1.0.0"
+description: >-
+  Ruhiges, modernes Layout für Hermes Desktop: Lesespalte, Lesetypografie,
+  schwebendes Eingabefeld, ruhiger Verlauf, weiche Geometrie und klare
+  Fokus-Zustände. Funktioniert mit jedem Theme.
+author: Tim Pfaff (timnbvc)
+kind: standalone
+provides_tools: []
+provides_hooks: []
+provides_middleware: []
+requires_env: []
